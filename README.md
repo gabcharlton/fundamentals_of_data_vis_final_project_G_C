@@ -17,6 +17,7 @@ What kinds of books are the most popular?
 * What genre typically sells the most?
 * Which author typically has sold the most ?
 * What original language is the most popular for books sold?
+
 What are the trends with popular book sales over the years?
 * What has been the most popular genre over the years?
 * Who has been the most popular author over the years?
